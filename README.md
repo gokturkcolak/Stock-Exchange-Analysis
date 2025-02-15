@@ -1,2 +1,0 @@
-# Stock Exchange Analysis
- 
